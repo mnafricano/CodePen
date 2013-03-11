@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Harabara';
-    src: url('../fonts/harabara-webfont.eot');
-    src: url('../fonts/harabara-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/harabara-webfont.woff') format('woff'),
-         url('../fonts/harabara-webfont.ttf') format('truetype'),
-         url('../fonts/harabara-webfont.svg#harabararegular') format('svg');
+    src: url('..fonts/harabara-webfont.eot');
+    src: url('..fonts/harabara-webfont.eot?#iefix') format('embedded-opentype'),
+         url('..fonts/harabara-webfont.woff') format('woff'),
+         url('..fonts/harabara-webfont.ttf') format('truetype'),
+         url('..fonts/harabara-webfont.svg#harabararegular') format('svg');
     font-weight: bold;
     font-style: normal;
 }
